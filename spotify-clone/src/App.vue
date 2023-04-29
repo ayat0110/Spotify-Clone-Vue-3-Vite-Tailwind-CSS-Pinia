@@ -56,6 +56,19 @@
        </ul>
       </span>
     </div>
+    <div
+    id="SideNav" 
+    class="h-[100%] p-6 w-[240px] fixed z-50 bg-black">
+    <router-link to="/">
+         <img width="125" src="/images/icons/spotify-logo.png">
+    </router-link>
+      <div class="my-8"></div>
+      <ul>
+        <router-link to="/">
+         <MenuItem />
+        </router-link>
+      </ul>
+    </div>
   </div>
 </template>
 
