@@ -47,7 +47,7 @@
                     <img 
                       class="rounded-full" 
                       width="27"
-                      src="https://instagram.fyei4-1.fna.fbcdn.net/v/t51.2885-19/330978936_1376966466462537_269621257527758263_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fyei4-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=RvFd5Nc0iMYAX_qBBS8&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfA7IcVEv1GmmZxkUGlthbGXMXPC87osvmRPASyx7b510g&oe=64576256&_nc_sid=1527a3"
+                      src="./assets/profileImage.jpg"
                     >
                     <div class="text-white text-[14px] ml-1.5 font-semibold">Frontendsimply</div>
                     <ChevronDown v-if="!openMenu" @click="openMenu = true" fillColor="#FFFFFF" :size="25" />
